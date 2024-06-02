@@ -8,3 +8,8 @@ The Java code handles the game rules and outcomes.
 MySQL Workbench CE is used to create and manage the database. JDBC is used for database connectivity.
 ### User Interface: 
 Java Swing components are utilized to create a user-friendly interface, with graphical elements like image buttons to enhance the gameplay experience.
+## Setup Instructions
+### Clone the Repository:
+```
+   git clone https://github.com/your-username/rock-paper-scissors.git
+   cd rock-paper-scissors```
