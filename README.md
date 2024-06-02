@@ -35,7 +35,7 @@ Java Swing components are utilized to create a user-friendly interface, with gra
    );
 
 ```
-- Update the JDBC connection details in the project to match your MySQL configuration.
+- Update the JDBC connection details in the project to match your MySQL configuration. -
 **Run the Application:**
 - Open the project in your preferred Java IDE.
 - Compile and run the Main class to start the game.
