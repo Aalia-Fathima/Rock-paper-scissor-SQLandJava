@@ -12,7 +12,7 @@ Java Swing components are utilized to create a user-friendly interface, with gra
 **Option 1: Download the ZIP File**
 - Go to the GitHub repository.
 - Click on the "Code" button.
-- Select "Download ZIP" and extract the files to your local machine.
+- Select "Download ZIP" and extract the files to your local machine.<br>
 **Option 2: Clone the Repository**
 ```
    git clone https://github.com/Aalia-Fathima/Rock-paper-scissor-SQLandJava.git
@@ -35,7 +35,7 @@ Java Swing components are utilized to create a user-friendly interface, with gra
    );
 
 ```
-- Update the JDBC connection details in the project to match your MySQL configuration. -
+- Update the JDBC connection details in the project to match your MySQL configuration.<br>
 **Run the Application:**
 - Open the project in your preferred Java IDE.
 - Compile and run the Main class to start the game.
