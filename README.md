@@ -9,18 +9,18 @@ MySQL Workbench 8.0 CE is used to create and manage the database. JDBC is used f
 - **User Interface:** 
 Java Swing components are utilized to create a user-friendly interface, with graphical elements like images, buttons to enhance the gameplay experience.
 ## Setup Instructions
-**Option 1:** Download the ZIP File
-Go to the GitHub repository.
-Click on the "Code" button.
-Select "Download ZIP" and extract the files to your local machine.
-### Option 2: Clone the Repository
+**Option 1: Download the ZIP File**
+- Go to the GitHub repository.
+- Click on the "Code" button.
+- Select "Download ZIP" and extract the files to your local machine.
+**Option 2: Clone the Repository**
 ```
    git clone https://github.com/Aalia-Fathima/Rock-paper-scissor-SQLandJava.git
 
 ```
-### Database Setup
-Ensure MySQL Workbench 8.0 CE is installed and running on your PC.
-Create the database and tables using the provided SQL scripts.
+**Database Setup**
+- Ensure MySQL Workbench 8.0 CE is installed and running on your PC.
+- Create the database and tables using the provided SQL scripts.
 ```
    create database <database-name>
    create table signup(
@@ -35,4 +35,4 @@ Create the database and tables using the provided SQL scripts.
    );
 
 ```
-Update the JDBC connection details in the project to match your MySQL configuration.
+- Update the JDBC connection details in the project to match your MySQL configuration.
