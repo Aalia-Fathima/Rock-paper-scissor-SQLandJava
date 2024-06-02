@@ -9,7 +9,13 @@ MySQL Workbench CE is used to create and manage the database. JDBC is used for d
 ### User Interface: 
 Java Swing components are utilized to create a user-friendly interface, with graphical elements like image buttons to enhance the gameplay experience.
 ## Setup Instructions
-### Clone the Repository:
+### Option 1: Download the ZIP File
+Go to the GitHub repository.
+Click on the "Code" button.
+Select "Download ZIP" and extract the files to your local machine.
+### Option 2: Clone the Repository
 ```
-   git clone https://github.com/your-username/rock-paper-scissors.git
-   cd rock-paper-scissors```
+   git clone https://github.com/Aalia-Fathima/Rock-paper-scissor-SQLandJava.git
+
+```
+
