@@ -2,7 +2,7 @@
 ## Introduction
 This application was created by using java swing library as frontend, programming langugae used is Java and for backend used SQL database connected using JDBC
 ## Components
-### Game Logic: 
+- **Game Logic** 
 The Java code handles the game rules and outcomes.
 ### Database Integration: 
 MySQL Workbench 8.0 CE is used to create and manage the database. JDBC is used for database connectivity.
