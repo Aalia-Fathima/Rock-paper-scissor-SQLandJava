@@ -1,6 +1,6 @@
 # Rock-paper-scissor-SQLandJava
 ## Introduction
-This application was created by using java swing library as frontend, programming langugae used is Java and for backend used SQL database connected using JDBC
+The core game logic is implemented in Java.Player data and game statistics are stored in a MySQL database. The database connection is managed using JDBC.The front-end interface is built using Java Swing components, providing an interactive user experience. The GUI includes images, buttons for player choices (rock, paper, scissors) and displays game results.
 ## Components
 - **Game Logic:** 
 The Java code handles the game rules and outcomes.
