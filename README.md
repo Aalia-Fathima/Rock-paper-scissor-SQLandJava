@@ -12,7 +12,7 @@ Java Swing components are utilized to create a user-friendly interface, with gra
 **Option 1: Download the ZIP File**
 - Go to the GitHub repository.
 - Click on the "Code" button.
-- Select "Download ZIP" and extract the files to your local machine.<br>br>
+- Select "Download ZIP" and extract the files to your local machine.<br><br>
 **Option 2: Clone the Repository**
 ```
    git clone https://github.com/Aalia-Fathima/Rock-paper-scissor-SQLandJava.git
