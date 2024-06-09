@@ -39,3 +39,6 @@ Java Swing components are utilized to create a user-friendly interface, with gra
 #### Run the Application:
 - Open the project in your preferred Java IDE.
 - Compile and run the Main class to start the game.
+
+## License
+This project is licensed under the MIT License.
